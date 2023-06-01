@@ -4,78 +4,302 @@
       "id": "d241b2b",
       "title": "Eat, Move, Sleep",
       "author": "Tom Rath",
-      "date": "2018-07-03",
-      "coverURL": "https://images.blinkist.com/images/books/5694b3802f6827000700002a/1_1/640.jpg"
+      "publishedAt": "2018-07-03T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5694b3802f6827000700002a/1_1/640.jpg"
     },
     {
       "id": "eea5ee1",
       "title": "The Secret Life of Sleep",
       "author": "Kat Duff",
-      "date": "2018-07-02",
-      "coverURL": "https://images.blinkist.com/images/books/56c1de12587c820007000063/1_1/640.jpg"
+      "publishedAt": "2018-07-02T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/56c1de12587c820007000063/1_1/640.jpg"
     },
     {
       "id": "7e2401d",
       "title": "The Sleep Revolution",
       "author": "Arianna Huffington",
-      "date": "2018-06-19",
-      "coverURL": "https://images.blinkist.com/images/books/5776159b86883200034f4744/1_1/640.jpg"
+      "publishedAt": "2018-06-19T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5776159b86883200034f4744/1_1/640.jpg"
     },
     {
       "id": "03779ee",
       "title": "Real Artists Don’t Starve",
       "author": "Jeff Goins",
-      "date": "2017-01-31",
-      "coverURL": "https//images.blinkist.com/images/books/599817dbb238e10006a125cb/1_1/640.jpg"
+      "publishedAt": "2017-01-31T00:00:00.000+00:00",
+      "coverURL": "https//images.blinkist.io/images/books/599817dbb238e10006a125cb/1_1/640.jpg"
     },
     {
       "id": "e021f6c",
       "title": "Hirntuning",
       "author": "Dave Asprey",
-      "date": "2018-01-01",
-      "coverURL": "https://images.blinkist.com/images/books/5b284d46b238e1000787b43d/1_1/640.jpg"
+      "publishedAt": "2018-01-01T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5b284d46b238e1000787b43d/1_1/640.jpg"
     },
     {
       "id": "8722651",
       "title": "The Red Queen",
       "author": "Matt Ridley",
-      "date": "2018-06-17",
-      "coverURL": "https://images.blinkist.com/images/books/58eb3b45a54bbb000464bab8/1_1/640.jpg"
+      "publishedAt": "2018-06-17T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/58eb3b45a54bbb000464bab8/1_1/640.jpg"
     },
     {
       "id": "2cb8609",
       "title": "Inner Engineering",
       "author": "Sadhguru Jaggi Vasudev",
-      "date": "2018-06-18",
-      "coverURL": "https://images.blinkist.com/images/books/59751e00b238e100057032bf/1_1/640.jpg"
+      "publishedAt": "2018-06-18T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/59751e00b238e100057032bf/1_1/640.jpg"
     },
     {
       "id": "b4388e4",
       "title": "Feathers",
       "author": "Thor Hanson",
-      "date": "2018-06-18",
-      "coverURL": "https://images.blinkist.com/images/books/59773cc1b238e10005084241/1_1/640.jpg"
+      "publishedAt": "2018-06-18T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/59773cc1b238e10005084241/1_1/640.jpg"
     },
     {
       "id": "1cdb347",
       "title": "The Subtle Art of Not Giving a F*ck",
       "author": "Mark Manson",
-      "date": "2016-07-02",
-      "coverURL": "https://images.blinkist.com/images/books/592933bbb238e10007b6b0a5/1_1/640.jpg"
+      "publishedAt": "2016-07-02T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/592933bbb238e10007b6b0a5/1_1/640.jpg"
     },
     {
       "id": "a597717",
       "title": "Bringing Up Bébé",
       "author": "Pamela Druckerman",
-      "date": "2016-07-03",
-      "coverURL": "https://images.blinkist.com/images/books/57e6c3f0afd7bf0003b7052d/1_1/640.jpg"
+      "publishedAt": "2016-07-03T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/57e6c3f0afd7bf0003b7052d/1_1/640.jpg"
     },
     {
       "id": "99c1c39",
       "title": "A Book With a Very Long Title, Veeeeeeeeeeeeeeeeery Long, Possibly the Most Long Title For a Book You've Ever Seen In Your Entire Life",
       "author": "The Blinkist Android Team",
-      "date": "2014-01-01",
-      "coverURL": "https://images.blinkist.com/images/books/5575979e3935610007420000/1_1/640.jpg"
+      "publishedAt": "2014-01-01T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5575979e3935610007420000/1_1/640.jpg"
+    },
+    {
+      "id": "5f8962c26cee070007a86bae",
+      "title": "Perfectly Confident",
+      "author": "Don A. Moore",
+      "publishedAt": "2020-10-19T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f8962c26cee070007a86bae/1_1/640.jpg"
+    },
+    {
+      "id": "5f8963526cee070007a86bb8",
+      "title": "Weird",
+      "author": "Olga Khazan",
+      "publishedAt": "2020-10-19T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f8963526cee070007a86bb8/1_1/640.jpg"
+    },
+    {
+      "id": "5f802ca76cee07000646ad60",
+      "title": "Clearer, Closer, Better",
+      "author": "Emily Balcetis",
+      "publishedAt": "2020-10-12T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f802ca76cee07000646ad60/1_1/640.jpg"
+    },
+    {
+      "id": "5f76e2226cee07000602f183",
+      "title": "Think Like a Rocket Scientist",
+      "author": "Ozan Varol",
+      "publishedAt": "2020-10-05T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f76e2226cee07000602f183/1_1/640.jpg"
+    },
+    {
+      "id": "5f74563c6cee070006055c2c",
+      "title": "The Biggest Bluff",
+      "author": "Maria Konnikova",
+      "publishedAt": "2020-10-03T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f74563c6cee070006055c2c/1_1/640.jpg"
+    },
+    {
+      "id": "5f691c4f6cee0700061eb443",
+      "title": "The Serendipity Mindset",
+      "author": "Christian Busch",
+      "publishedAt": "2020-09-24T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f691c4f6cee0700061eb443/1_1/640.jpg"
+    },
+    {
+      "id": "5f64be566cee07000623d52f",
+      "title": "Big Potential",
+      "author": "Shawn Achor",
+      "publishedAt": "2020-09-21T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f64be566cee07000623d52f/1_1/640.jpg"
+    },
+    {
+      "id": "5f5fda5d6cee070006c639ec",
+      "title": "Limitless",
+      "author": "Jim Kwik",
+      "publishedAt": "2020-09-19T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f5fda5d6cee070006c639ec/1_1/640.jpg"
+    },
+    {
+      "id": "5f5263fb6cee07000608478f",
+      "title": "Friday Forward",
+      "author": "Robert Glazer",
+      "publishedAt": "2020-09-08T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f5263fb6cee07000608478f/1_1/640.jpg"
+    },
+    {
+      "id": "5f47d8d36cee070006d18d79",
+      "title": "A Handbook for New Stoics",
+      "author": "Massimo Pigliucci and Gregory Lopez",
+      "publishedAt": "2020-08-31T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f47d8d36cee070006d18d79/1_1/640.jpg"
+    },
+    {
+      "id": "5f3f9f5c6cee070007b03b78",
+      "title": "Aristotle's Way",
+      "author": "Edith Hall",
+      "publishedAt": "2020-08-27T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f3f9f5c6cee070007b03b78/1_1/640.jpg"
+    },
+    {
+      "id": "5f31998c6cee070006c6583a",
+      "title": "Acting with Power",
+      "author": "Deborah Gruenfeld",
+      "publishedAt": "2020-08-16T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f31998c6cee070006c6583a/1_1/640.jpg"
+    },
+    {
+      "id": "5f2d272f6cee07000669b5d8",
+      "title": "Living Forward",
+      "author": "Michael Hyatt and Daniel Harkavy",
+      "publishedAt": "2020-08-10T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f2d272f6cee07000669b5d8/1_1/640.jpg"
+    },
+    {
+      "id": "5f2bc96a6cee07000627fbd1",
+      "title": "Personality Isn't Permanent",
+      "author": "Benjamin Hardy",
+      "publishedAt": "2020-08-08T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f2bc96a6cee07000627fbd1/1_1/640.jpg"
+    },
+    {
+      "id": "5f23e8c16cee070006bddbd4",
+      "title": "The Little Book of Talent",
+      "author": "Daniel Coyle",
+      "publishedAt": "2020-08-03T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f23e8c16cee070006bddbd4/1_1/640.jpg"
+    },
+    {
+      "id": "5f10bf806cee070006c1f65e",
+      "title": "Resilient",
+      "author": "Rick Hanson with Forrest Hanson",
+      "publishedAt": "2020-07-20T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f10bf806cee070006c1f65e/1_1/640.jpg"
+    },
+    {
+      "id": "5f10bce56cee0700066c457c",
+      "title": "Willpower Doesn't Work",
+      "author": "Benjamin Hardy",
+      "publishedAt": "2020-07-20T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5f10bce56cee0700066c457c/1_1/640.jpg"
+    },
+    {
+      "id": "5eff4a216cee070006b9c3f3",
+      "title": "Boundaries",
+      "author": "Henry Cloud and John Townsend",
+      "publishedAt": "2020-07-09T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5eff4a216cee070006b9c3f3/1_1/640.jpg"
+    },
+    {
+      "id": "5eff33596cee070006112e33",
+      "title": "Didn't See It Coming",
+      "author": "Carey Nieuwhof",
+      "publishedAt": "2020-07-06T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5eff33596cee070006112e33/1_1/640.jpg"
+    },
+    {
+      "id": "5ef9ecc86cee07000655a097",
+      "title": "How to Live a Good Life",
+      "author": "ed. Massimo Pigliucci",
+      "publishedAt": "2020-07-03T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ef9ecc86cee07000655a097/1_1/640.jpg"
+    },
+    {
+      "id": "5eebd93a6cee070006f6a3df",
+      "title": "Transcend",
+      "author": "Scott Barry Kaufman",
+      "publishedAt": "2020-06-22T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5eebd93a6cee070006f6a3df/1_1/640.jpg"
+    },
+    {
+      "id": "5ee394126cee070006eca45f",
+      "title": "Own Your Everyday",
+      "author": "Jordan Lee Dooley",
+      "publishedAt": "2020-06-18T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ee394126cee070006eca45f/1_1/640.jpg"
+    },
+    {
+      "id": "5ee2600f6cee0700068376d9",
+      "title": "Help Me!",
+      "author": "Marianne Power",
+      "publishedAt": "2020-06-13T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ee2600f6cee0700068376d9/1_1/640.jpg"
+    },
+    {
+      "id": "5edab48b6cee07000698044b",
+      "title": "You Do You",
+      "author": "Sarah Knight",
+      "publishedAt": "2020-06-08T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5edab48b6cee07000698044b/1_1/640.jpg"
+    },
+    {
+      "id": "5ed136c86cee070006660bb4",
+      "title": "See You at the Top",
+      "author": "Zig Ziglar",
+      "publishedAt": "2020-06-01T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ed136c86cee070006660bb4/1_1/640.jpg"
+    },
+    {
+      "id": "5ecd701a6cee0700068125aa",
+      "title": "The Stress Code",
+      "author": "Richard Sutton",
+      "publishedAt": "2020-05-30T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ecd701a6cee0700068125aa/1_1/640.jpg"
+    },
+    {
+      "id": "5ec828d26cee0700066d1c1c",
+      "title": "The Simplicity Principle",
+      "author": "Julia Hobsbawm",
+      "publishedAt": "2020-05-28T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ec828d26cee0700066d1c1c/1_1/640.jpg"
+    },
+    {
+      "id": "5ebe90f06cee070007bd1352",
+      "title": "The Discomfort Zone",
+      "author": "Farrah Storr",
+      "publishedAt": "2020-05-20T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ebe90f06cee070007bd1352/1_1/640.jpg"
+    },
+    {
+      "id": "5ebd482f6cee070006c51575",
+      "title": "Get Out of Your Own Way",
+      "author": "Dave Hollis",
+      "publishedAt": "2020-05-17T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5ebd482f6cee070006c51575/1_1/640.jpg"
+    },
+    {
+      "id": "5e9979816cee070007b55d9a",
+      "title": "The 15 Invaluable Laws of Growth",
+      "author": "John C. Maxwell",
+      "publishedAt": "2020-04-20T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5e9979816cee070007b55d9a/1_1/640.jpg"
+    },
+    {
+      "id": "5e959f986cee0700060a0d59",
+      "title": "The Great Mental Models",
+      "author": "Shane Parrish and Rhiannon Beaubien",
+      "publishedAt": "2020-04-16T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5e959f986cee0700060a0d59/1_1/640.jpg"
+    },
+    {
+      "id": "5e95a3866cee070006b2fb07",
+      "title": "The Power of Bad",
+      "author": "John Tierney and Roy Baumeister",
+      "publishedAt": "2020-04-16T00:00:00.000+00:00",
+      "coverURL": "https://images.blinkist.io/images/books/5e95a3866cee070006b2fb07/1_1/640.jpg"
     }
   ]
 }
